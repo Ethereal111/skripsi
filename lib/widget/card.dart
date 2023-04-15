@@ -12,7 +12,7 @@ class AppCard extends StatelessWidget {
     required this.child,
     this.borderSide,
     this.height = 190,
-    this.width = 210,
+    this.width = 180,
   }) : super(key: key);
 
   @override
